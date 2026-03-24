@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "sources": [
+    {
+      "id": "telex_001",
+      "name": "Telex",
+      "url": "https://telex.hu/rss",
+      "lang": "hu",
+      "country": "HU",
+      "category": "news",
+      "icon": "https://telex.hu/assets/telex-icon.png"
+    },
+    {
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/rss.xml",
+      "lang": "en",
+      "country": "GB",
+      "category": "news"
+    }
+  ]
+}
