@@ -3,18 +3,16 @@
   "updated_at": "2026-03-24T17:18:19+00:00",
   "sources": [
     {
-      "id": "13a9bc87-7b65-4f43-bd7e-af544b369f13",
       "name": "Telex",
       "url": "https://telex.hu/rss",
-      "lang": "hu",
+      "language": "hu",
       "country": "HU",
       "category": "news"
     },
     {
-      "id": "ee566dfa-8bd5-421a-ad7d-b692ee590ae6",
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/rss.xml",
-      "lang": "en",
+      "language": "en",
       "country": "GB",
       "category": "news"
     }
