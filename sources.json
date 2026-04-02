@@ -6,7 +6,7 @@
       "name": "Telex",
       "description": "Magyar hírportál",
       "url": "https://telex.hu/rss",
-      "source_url": "https://telex.hu",
+      "site_url": "https://telex.hu",
       "language": "hu",
       "country": "HU",
       "category": "news"
@@ -15,7 +15,7 @@
       "name": "BBC World",
       "description": "British public broadcaster",
       "url": "https://feeds.bbci.co.uk/news/rss.xml",
-      "source_url": "https://www.bbc.com",
+      "site_url": "https://www.bbc.com",
       "language": "en",
       "country": "GB",
       "category": "news"
