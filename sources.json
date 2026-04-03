@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updated_at": "2026-04-02T21:54:19+00:00",
+  "updated_at": "2026-04-03T23:13:19+00:00",
   "sources": [
     {
       "name": "Telex",
-      "description": "Magyar hírportál",
+      "description": "hírportál",
       "url": "https://telex.hu/rss",
       "site_url": "https://telex.hu",
       "language": "hu",
@@ -12,8 +12,71 @@
       "category": "news"
     },
     {
+      "name": "444",
+      "description": "hírportál",
+      "url": "https://444.hu/feed",
+      "site_url": "https://444.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "news"
+    },
+    {
+      "name": "HVG",
+      "description": "hírportál",
+      "url": "https://hvg.hu/rss",
+      "site_url": "https://hvg.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "news"
+    },
+    {
+      "name": "24.hu",
+      "description": "hírportál",
+      "url": "https://24.hu/feed",
+      "site_url": "https://24.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "news"
+    },
+    {
+      "name": "Válasz Online",
+      "description": "longform portál",
+      "url": "https://www.valaszonline.hu/feed",
+      "site_url": "https://www.valaszonline.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "longform"
+    },
+    {
+      "name": "Mérce",
+      "description": "baloldali hírportál",
+      "url": "https://merce.hu/feed",
+      "site_url": "https://merce.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "longform"
+    },
+    {
+      "name": "Portfólió",
+      "description": "online gazdasági újság - összes hír",
+      "url": "https://www.portfolio.hu/rss/all.xml",
+      "site_url": "https://www.portfolio.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "economy"
+    },
+    {
+      "name": "Média1",
+      "description": "médiapiaci szakportál",
+      "url": "https://media1.hu/rss",
+      "site_url": "https://media1.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "economy"
+    },
+    {
       "name": "BBC World",
-      "description": "British public broadcaster",
+      "description": "public broadcaster",
       "url": "https://feeds.bbci.co.uk/news/rss.xml",
       "site_url": "https://www.bbc.com",
       "language": "en",
