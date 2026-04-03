@@ -54,7 +54,7 @@
       "site_url": "https://merce.hu",
       "language": "hu",
       "country": "HU",
-      "category": "longform"
+      "category": "news"
     },
     {
       "name": "Portfólió",
@@ -72,7 +72,7 @@
       "site_url": "https://media1.hu",
       "language": "hu",
       "country": "HU",
-      "category": "economy"
+      "category": "media"
     },
     {
       "name": "BBC World",
