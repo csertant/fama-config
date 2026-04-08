@@ -83,6 +83,36 @@
       "genre": "general"
     },
     {
+      "name": "Átlátszó",
+      "description": "tényfeltáró portál",
+      "url": "https://atlatszo.hu/rss",
+      "site_url": "https://atlatszo.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "general",
+      "genre": "investigative"
+    },
+    {
+      "name": "Direkt36",
+      "description": "tényfeltáró portál",
+      "url": "https://www.direkt36.hu/rss",
+      "site_url": "https://www.direkt36.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "general",
+      "genre": "investigative"
+    },
+    {
+      "name": "VSquare",
+      "description": "investigating central europe",
+      "url": "https://vsquare.org/rss",
+      "site_url": "https://vsquare.org",
+      "language": "en",
+      "country": "PL",
+      "category": "general",
+      "genre": "investigative"
+    },
+    {
       "name": "BBC World",
       "description": "public broadcaster",
       "url": "https://feeds.bbci.co.uk/news/rss.xml",
