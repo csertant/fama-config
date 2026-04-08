@@ -9,7 +9,8 @@
       "site_url": "https://telex.hu",
       "language": "hu",
       "country": "HU",
-      "category": "news"
+      "category": "general",
+      "genre": "general"
     },
     {
       "name": "444",
@@ -18,7 +19,8 @@
       "site_url": "https://444.hu",
       "language": "hu",
       "country": "HU",
-      "category": "news"
+      "category": "general",
+      "genre": "general"
     },
     {
       "name": "HVG",
@@ -27,7 +29,8 @@
       "site_url": "https://hvg.hu",
       "language": "hu",
       "country": "HU",
-      "category": "news"
+      "category": "general",
+      "genre": "general"
     },
     {
       "name": "24.hu",
@@ -36,7 +39,8 @@
       "site_url": "https://24.hu",
       "language": "hu",
       "country": "HU",
-      "category": "news"
+      "category": "general",
+      "genre": "general"
     },
     {
       "name": "Válasz Online",
@@ -45,7 +49,8 @@
       "site_url": "https://www.valaszonline.hu",
       "language": "hu",
       "country": "HU",
-      "category": "longform"
+      "category": "general",
+      "genre": "longform"
     },
     {
       "name": "Mérce",
@@ -54,7 +59,8 @@
       "site_url": "https://merce.hu",
       "language": "hu",
       "country": "HU",
-      "category": "news"
+      "category": "general",
+      "genre": "general"
     },
     {
       "name": "Portfólió",
@@ -63,7 +69,8 @@
       "site_url": "https://www.portfolio.hu",
       "language": "hu",
       "country": "HU",
-      "category": "economy"
+      "category": "economy",
+      "genre": "general"
     },
     {
       "name": "Média1",
@@ -72,7 +79,8 @@
       "site_url": "https://media1.hu",
       "language": "hu",
       "country": "HU",
-      "category": "media"
+      "category": "media",
+      "genre": "general"
     },
     {
       "name": "BBC World",
@@ -81,7 +89,8 @@
       "site_url": "https://www.bbc.com",
       "language": "en",
       "country": "GB",
-      "category": "news"
+      "category": "general",
+      "genre": "general"
     }
   ]
 }
