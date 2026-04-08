@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fáma</title>
+    <meta name="description" content="really simple app presenting tailored news feeds from curated sources.">
+    <meta name="keywords" content="fáma, news, feed, rss, app, ios, android">
+    <meta name="author" content="tamas.csertan">
+
+    <meta property="og:title" content="fáma">
+    <meta property="og:description" content="really simple app presenting tailored news feeds from curated sources.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="assets/killer_image.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="fáma">
+    <meta name="twitter:description" content="really simple app presenting tailored news feeds from curated sources.">
+    <meta name="twitter:image" content="assets/killer_image.png">
+
+    <link rel="icon" type="image/png" href="assets/icon_2x.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="top-controls">
+        <span class="theme-switcher">
+            <a onclick="setTheme('light')" class="switch-light lang-en">light</a>
+            <a onclick="setTheme('light')" class="switch-light lang-hu">világos</a> :
+            <a onclick="setTheme('dark')" class="switch-dark lang-en">dark</a>
+            <a onclick="setTheme('dark')" class="switch-dark lang-hu">sötét</a>
+        </span>
+        &nbsp;&nbsp;:&nbsp;&nbsp;
+        <span class="lang-switcher">
+            <a onclick="setLang('hu')" class="switch-hu">hu</a> :
+            <a onclick="setLang('en')" class="switch-en">en</a>
+        </span>
+    </div>
+
+    <div class="container">
+        <img src="assets/icon_2x.png" alt="fáma logo" class="logo" onerror="this.style.display='none'">
+
+        <h1>fáma</h1>
+        <p class="lang-en">really simple app presenting tailored news feeds from curated sources.</p>
+        <p class="lang-hu">egyszerű app, amely válogatott forrásokból prezentál személyre szabott
+            hírfolyamot.</p>
+
+        <img src="assets/killer_image.png" alt="fáma app hero image" class="hero" onerror="this.style.display='none'">
+
+        <div class="store-links">
+            <a href="#" class="store-button lang-en">download on the app store</a>
+            <a href="#" class="store-button lang-hu">letöltés az app store-ból</a>
+            <a href="#" class="store-button lang-en">get it on google play</a>
+            <a href="#" class="store-button lang-hu">szerezd meg a google play-en</a>
+        </div>
+
+        <div class="status-line">
+            <a href="privacy.html" class="lang-en">privacy policy</a>
+            <a href="privacy.html" class="lang-hu">adatvédelmi irányelvek</a>
+            <br><br>
+            <span class="lang-en">made with &lt;3 by <a href="https://tamascsertan.com"
+                    target="_blank">tamas.csertan</a> <br> &copy; 2026 all rights reserved</span>
+            <span class="lang-hu">made with &lt;3 by <a href="https://tamascsertan.com"
+                    target="_blank">tamas.csertan</a> <br> &copy; 2026 minden jog fenntartva</span>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
