@@ -1,0 +1,174 @@
+:root {
+    --fama-black: #0A0A0A;
+    --fama-dark-grey: #5b5b5b;
+    --fama-light-grey: #b2b2b2;
+    --fama-white: #F5F5F5;
+}
+
+body.dark {
+    --fama-black: #F5F5F5;
+    --fama-dark-grey: #b2b2b2;
+    --fama-light-grey: #5b5b5b;
+    --fama-white: #0A0A0A;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: var(--fama-white);
+    color: var(--fama-black);
+    font-size: 1.25rem;
+    font-weight: normal;
+    text-transform: lowercase;
+    margin: 0;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    box-sizing: border-box;
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+* {
+    font-weight: normal !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 2rem;
+    margin: 1rem 0;
+    color: var(--fama-black);
+}
+
+p,
+li,
+span,
+div {
+    font-size: 1.25rem;
+    line-height: 1.5;
+    color: var(--fama-dark-grey);
+    max-width: 600px;
+    margin: 0 auto 1.5rem auto;
+}
+
+a {
+    color: var(--fama-black);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+.status-line {
+    font-size: 1rem;
+    color: var(--fama-light-grey);
+    margin-top: 4rem;
+}
+
+.status-line span,
+.status-line a {
+    font-size: inherit;
+    color: inherit;
+    margin: 0;
+}
+
+.logo {
+    height: 60px;
+    max-width: 100%;
+    margin: 0 auto 2rem auto;
+    display: block;
+}
+
+.logo-dark {
+    display: none;
+}
+
+body.dark .logo-light {
+    display: none;
+}
+
+body.dark .logo-dark {
+    display: block;
+}
+
+.hero {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 2rem 0;
+}
+
+.container {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.store-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+    margin: 2rem auto;
+}
+
+body.hu .lang-en {
+    display: none !important;
+}
+
+body.en .lang-hu {
+    display: none !important;
+}
+
+.top-controls {
+    position: absolute;
+    top: 1.5rem;
+    right: 1.5rem;
+    font-size: 0.75rem;
+    color: var(--fama-light-grey);
+}
+
+.top-controls span,
+.top-controls a {
+    font-size: inherit;
+    margin: 0;
+}
+
+.top-controls a {
+    color: var(--fama-light-grey);
+    cursor: pointer;
+    margin: 0 0.25rem;
+}
+
+body.hu .top-controls .switch-hu {
+    color: var(--fama-black);
+    text-decoration: underline;
+}
+
+body.en .top-controls .switch-en {
+    color: var(--fama-black);
+    text-decoration: underline;
+}
+
+body.light .top-controls .switch-light {
+    color: var(--fama-black);
+    text-decoration: underline;
+}
+
+body.dark .top-controls .switch-dark {
+    color: var(--fama-black);
+    text-decoration: underline;
+}
