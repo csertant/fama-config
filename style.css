@@ -105,11 +105,10 @@ body.dark .logo-dark {
 }
 
 .hero {
-    max-width: 100%;
-    height: auto;
-    max-height: 50%;
+    width: auto;
+    max-height: 40vh;
     border-radius: 8px;
-    margin: 2rem 0;
+    margin: 3.5rem 0.5rem;
 }
 
 .container {
