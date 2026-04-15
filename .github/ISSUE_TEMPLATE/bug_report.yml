@@ -1,0 +1,49 @@
+name: Bug report
+description: Report an issue with feed entries or repository content
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened?
+      description: A clear description of the problem.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+
+  - type: input
+    id: source_name
+    attributes:
+      label: Affected source name (if applicable)
+      placeholder: Example News
+
+  - type: input
+    id: source_url
+    attributes:
+      label: Affected feed URL (if applicable)
+      placeholder: https://example.com/rss
+
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Go to ...
+        2. Open ...
+        3. Observe ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional context
+      description: Logs, screenshots, or anything useful.
