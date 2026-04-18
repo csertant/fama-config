@@ -43,16 +43,6 @@
       "genre": "general"
     },
     {
-      "name": "Válasz Online",
-      "description": "longform portál",
-      "url": "https://www.valaszonline.hu/feed",
-      "site_url": "https://www.valaszonline.hu",
-      "language": "hu",
-      "country": "HU",
-      "category": "general",
-      "genre": "longform"
-    },
-    {
       "name": "Mérce",
       "description": "baloldali hírportál",
       "url": "https://merce.hu/feed",
