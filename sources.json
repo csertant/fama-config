@@ -3,10 +3,10 @@
   "updated_at": "2026-04-03T23:13:19+00:00",
   "sources": [
     {
-      "name": "Telex",
+      "name": "24.hu",
       "description": "hírportál",
-      "url": "https://telex.hu/rss",
-      "site_url": "https://telex.hu",
+      "url": "https://24.hu/feed",
+      "site_url": "https://24.hu",
       "language": "hu",
       "country": "HU",
       "category": "general",
@@ -23,6 +23,56 @@
       "genre": "general"
     },
     {
+      "name": "Átlátszó",
+      "description": "tényfeltáró portál",
+      "url": "https://atlatszo.hu/rss",
+      "site_url": "https://atlatszo.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "general",
+      "genre": "investigative"
+    },
+    {
+      "name": "BBC World",
+      "description": "british public broadcaster",
+      "url": "https://feeds.bbci.co.uk/news/rss.xml",
+      "site_url": "https://www.bbc.com",
+      "language": "en",
+      "country": "GB",
+      "category": "general",
+      "genre": "general"
+    },
+    {
+      "name": "Direkt36",
+      "description": "tényfeltáró portál",
+      "url": "https://www.direkt36.hu/rss",
+      "site_url": "https://www.direkt36.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "general",
+      "genre": "investigative"
+    },
+    {
+      "name": "Frankfurter Allgemeine Zeitung",
+      "description": "deutsche nachrichtenmagazin",
+      "url": "https://www.faz.net/rss/aktuell/",
+      "site_url": "https://www.faz.net",
+      "language": "de",
+      "country": "DE",
+      "category": "general",
+      "genre": "general"
+    },
+    {
+      "name": "The Guardian",
+      "description": "british news outlet - world news",
+      "url": "https://www.theguardian.com/world/rss",
+      "site_url": "https://www.theguardian.com/world",
+      "language": "en",
+      "country": "GB",
+      "category": "general",
+      "genre": "general"
+    },
+    {
       "name": "HVG",
       "description": "hírportál",
       "url": "https://hvg.hu/rss",
@@ -30,36 +80,6 @@
       "language": "hu",
       "country": "HU",
       "category": "general",
-      "genre": "general"
-    },
-    {
-      "name": "24.hu",
-      "description": "hírportál",
-      "url": "https://24.hu/feed",
-      "site_url": "https://24.hu",
-      "language": "hu",
-      "country": "HU",
-      "category": "general",
-      "genre": "general"
-    },
-    {
-      "name": "Mérce",
-      "description": "baloldali hírportál",
-      "url": "https://merce.hu/feed",
-      "site_url": "https://merce.hu",
-      "language": "hu",
-      "country": "HU",
-      "category": "general",
-      "genre": "general"
-    },
-    {
-      "name": "Portfólió",
-      "description": "online gazdasági újság - összes hír",
-      "url": "https://www.portfolio.hu/rss/all.xml",
-      "site_url": "https://www.portfolio.hu",
-      "language": "hu",
-      "country": "HU",
-      "category": "economy",
       "genre": "general"
     },
     {
@@ -73,24 +93,64 @@
       "genre": "general"
     },
     {
-      "name": "Átlátszó",
-      "description": "tényfeltáró portál",
-      "url": "https://atlatszo.hu/rss",
-      "site_url": "https://atlatszo.hu",
+      "name": "Mérce",
+      "description": "baloldali hírportál",
+      "url": "https://merce.hu/feed",
+      "site_url": "https://merce.hu",
       "language": "hu",
       "country": "HU",
       "category": "general",
-      "genre": "investigative"
+      "genre": "general"
     },
     {
-      "name": "Direkt36",
-      "description": "tényfeltáró portál",
-      "url": "https://www.direkt36.hu/rss",
-      "site_url": "https://www.direkt36.hu",
+      "name": "Le Monde",
+      "description": "journal français d'information générale",
+      "url": "https://www.lemonde.fr/rss/une.xml",
+      "site_url": "https://www.lemonde.fr",
+      "language": "fr",
+      "country": "FR",
+      "category": "general",
+      "genre": "general"
+    },
+    {
+      "name": "Politico EU",
+      "description": "european news outlet",
+      "url": "https://www.politico.eu/rss",
+      "site_url": "https://www.politico.eu",
+      "language": "en",
+      "country": "DE",
+      "category": "general",
+      "genre": "general"
+    },
+    {
+      "name": "Portfólió",
+      "description": "online gazdasági portál - összes hír",
+      "url": "https://www.portfolio.hu/rss/all.xml",
+      "site_url": "https://www.portfolio.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "economy",
+      "genre": "general"
+    },
+    {
+      "name": "Der Spiegel",
+      "description": "deutsche nachrichtenmagazin",
+      "url": "https://www.spiegel.de/index.rss",
+      "site_url": "https://www.spiegel.de",
+      "language": "de",
+      "country": "DE",
+      "category": "general",
+      "genre": "general"
+    },
+    {
+      "name": "Telex",
+      "description": "hírportál",
+      "url": "https://telex.hu/rss",
+      "site_url": "https://telex.hu",
       "language": "hu",
       "country": "HU",
       "category": "general",
-      "genre": "investigative"
+      "genre": "general"
     },
     {
       "name": "VSquare",
@@ -103,14 +163,14 @@
       "genre": "investigative"
     },
     {
-      "name": "BBC World",
-      "description": "public broadcaster",
-      "url": "https://feeds.bbci.co.uk/news/rss.xml",
-      "site_url": "https://www.bbc.com",
+      "name": "xkcd",
+      "description": "a webcomic of romance, sarcasm, math, and language.",
+      "url": "https://xkcd.com/atom.xml",
+      "site_url": "https://xkcd.com",
       "language": "en",
-      "country": "GB",
+      "country": "US",
       "category": "general",
-      "genre": "general"
+      "genre": "comic"
     }
   ]
 }
