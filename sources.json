@@ -43,6 +43,16 @@
       "genre": "general"
     },
     {
+      "name": "Corriere della Sera",
+      "description": "giornale italiano - notizie",
+      "url": "https://xml2.corriereobjects.it/feed-hp/homepage-restyle-2025.xml",
+      "site_url": "https://www.corriere.it",
+      "language": "it",
+      "country": "IT",
+      "category": "general",
+      "genre": "general"
+    },
+    {
       "name": "Direkt36",
       "description": "tényfeltáró portál",
       "url": "https://www.direkt36.hu/rss",
@@ -51,6 +61,16 @@
       "country": "HU",
       "category": "general",
       "genre": "investigative"
+    },
+    {
+      "name": "Le Figaro",
+      "description": "journal français d'information générale - actualités",
+      "url": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "site_url": "https://www.lefigaro.fr",
+      "language": "fr",
+      "country": "FR",
+      "category": "general",
+      "genre": "general"
     },
     {
       "name": "Frankfurter Allgemeine Zeitung",
@@ -104,7 +124,7 @@
     },
     {
       "name": "Le Monde",
-      "description": "journal français d'information générale",
+      "description": "journal français d'information générale - actualités",
       "url": "https://www.lemonde.fr/rss/une.xml",
       "site_url": "https://www.lemonde.fr",
       "language": "fr",
@@ -139,6 +159,16 @@
       "site_url": "https://www.spiegel.de",
       "language": "de",
       "country": "DE",
+      "category": "general",
+      "genre": "general"
+    },
+    {
+      "name": "Der Standard",
+      "description": "österreichische tageszeitung",
+      "url": "https://www.derstandard.at/rss",
+      "site_url": "https://www.derstandard.at",
+      "language": "de",
+      "country": "AT",
       "category": "general",
       "genre": "general"
     },
