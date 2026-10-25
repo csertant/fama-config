@@ -103,6 +103,26 @@
       "genre": "general"
     },
     {
+      "name": "Magyar Hang",
+      "description": "hírportál",
+      "url": "https://hang.hu/rss",
+      "site_url": "https://hang.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "general",
+      "genre": "general"
+    },
+    {
+      "name": "Magyar Narancs",
+      "description": "hírportál",
+      "url": "https://magyarnarancs.hu/rss",
+      "site_url": "https://magyarnarancs.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "general",
+      "genre": "general"
+    },
+    {
       "name": "Média1",
       "description": "médiapiaci szakportál",
       "url": "https://media1.hu/rss",
@@ -181,6 +201,16 @@
       "country": "HU",
       "category": "general",
       "genre": "general"
+    },
+    {
+      "name": "Válasz Online",
+      "description": "hírportál",
+      "url": "https://www.valaszonline.hu/feed",
+      "site_url": "https://www.valaszonline.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "general",
+      "genre": "longform"
     },
     {
       "name": "VSquare",
