@@ -43,6 +43,16 @@
       "genre": "general"
     },
     {
+      "name": "Borsod24",
+      "description": "helyi hírportál",
+      "url": "https://borsod24.hu/rss",
+      "site_url": "https://borsod24.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "local",
+      "genre": "general"
+    },
+    {
       "name": "Corriere della Sera",
       "description": "giornale italiano - notizie",
       "url": "https://xml2.corriereobjects.it/feed-hp/homepage-restyle-2025.xml",
@@ -50,6 +60,16 @@
       "language": "it",
       "country": "IT",
       "category": "general",
+      "genre": "general"
+    },
+    {
+      "name": "Debreciner",
+      "description": "helyi hírportál",
+      "url": "https://debreciner.hu/rss",
+      "site_url": "https://debreciner.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "local",
       "genre": "general"
     },
     {
@@ -75,7 +95,7 @@
     {
       "name": "Frankfurter Allgemeine Zeitung",
       "description": "deutsche nachrichtenmagazin",
-      "url": "https://www.faz.net/rss/aktuell/",
+      "url": "https://www.faz.net/rss/aktuell",
       "site_url": "https://www.faz.net",
       "language": "de",
       "country": "DE",
@@ -153,6 +173,16 @@
       "genre": "general"
     },
     {
+      "name": "Nyugat.hu",
+      "description": "helyi hírportál",
+      "url": "https://www.nyugat.hu/rss",
+      "site_url": "https://www.nyugat.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "local",
+      "genre": "general"
+    },
+    {
       "name": "Politico EU",
       "description": "european news outlet",
       "url": "https://www.politico.eu/rss",
@@ -190,6 +220,26 @@
       "language": "de",
       "country": "AT",
       "category": "general",
+      "genre": "general"
+    },
+    {
+      "name": "Szabad Pécs",
+      "description": "helyi hírportál",
+      "url": "https://szabadpecs.hu/rss",
+      "site_url": "https://szabadpecs.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "local",
+      "genre": "general"
+    },
+    {
+      "name": "Szegeder",
+      "description": "helyi hírportál",
+      "url": "https://szegeder.hu/feed",
+      "site_url": "https://szegeder.hu",
+      "language": "hu",
+      "country": "HU",
+      "category": "local",
       "genre": "general"
     },
     {
